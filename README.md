@@ -1,7 +1,8 @@
 # GoAlert CLI
 
-## A SMS alert system for Forex Quotes. 
+## A SMS alert system for forex (currency) quotes. 
 ### Messages sent via Twilio API. FX data feed via IEX Cloud API.
+
 
 ### TODO:
 #### - ~~Connect/Send Twilio message~~
@@ -11,5 +12,7 @@
 #### - Add support for all FX majors
 #### - Add volume level indicator
 
+
 Twilio Reference: http://blog.magmalabs.io/2015/01/06/sending-sms-messages-using-twilio-and-golang.html
+
 IEX Cloud Reference: n/a
