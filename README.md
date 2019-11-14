@@ -1,7 +1,7 @@
-# GoALert
+# GoAlert CLI
 
-# A SMS alert system for Forex Quotes. 
-## Messages sent via Twilio API. FX data feed via IEX Cloud API.
+## A SMS alert system for Forex Quotes. 
+### Messages sent via Twilio API. FX data feed via IEX Cloud API.
 
 ### TODO:
 #### - ~~Connect/Send Twilio message~~
